@@ -1,0 +1,6 @@
+I am writing to provide you with the results of the recent implementation of the ACR in the Deir Ashayer Micro_DMR507U. Specifically, we converted two monopole antennas to two directional antennas on July 19, 2023. Our analysis took into account the three days before and after the ACR.
+
+Based on the analysis result, I recommend the addition of another directional antenna to further enhance coverage in the area. This will not only improve communications capabilities, but also contribute to increased revenue and MTN reputation.
+With stable Electricity rationing I also recommend to installation solar system to keep batteries alive for as long as possible which leads to continuously MTN coverage in the area.
+
+
